@@ -1,0 +1,1068 @@
+p1:-1 0 Change 35805 created with 7 open file(s).
+p1:-1 0 Submitting change 35805.
+p1:-1 0 Locking 7 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Performance.cs#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Performance.cs.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/PlayerControl.cs#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/PlayerControl.cs.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/SampleScene.unity#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/SampleScene.unity.meta#1
+p1:-1 0 Change 35805 submitted.
+p1:-1 0 Change 35812 created with 2 open file(s).
+p1:-1 0 Submitting change 35812.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/PlayerControl.cs#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/PlayerControl.cs.meta#2
+p1:-1 0 Change 35812 submitted.
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+p1:-1 0 Change 36509 created with 2 open file(s).
+p1:-1 0 Submitting change 36509.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity.meta#1
+p1:-1 0 Change 36509 submitted.
+p1:-1 0 Change 36510 created with 5 open file(s).
+p1:-1 0 Submitting change 36510.
+p1:-1 0 Locking 5 files ...
+p1:-1 0 move/delete //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/PlayerControl.cs#3
+p1:-1 0 move/delete //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/PlayerControl.cs.meta#3
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts.meta#1
+p1:-1 0 move/add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#1
+p1:-1 0 move/add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#1
+p1:-1 0 Change 36510 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\giraffeHurt03.ogg
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\giraffeHurt03.ogg.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Materials\\bg_left.mat
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Materials\\bg_left.mat.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Materials\\bg_right.mat
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Materials\\bg_right.mat.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Sprites\\matchOverBackgroundPlaceholder.jpg
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Sprites\\matchOverBackgroundPlaceholder.jpg.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Textures\\bg_center.png
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Textures\\bg_center.png.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Textures\\bg_left.png
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Textures\\bg_left.png.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Textures\\bg_right.png
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Textures\\bg_right.png.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\giraffeDefeated01.ogg
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\giraffeDefeated01.ogg.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GameManager.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GameManager.cs.meta
+p1:-1 0 opened for move/delete - not changed
+p1:-1 0 opened for move/delete - not changed
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Materials\\matchOverBackgroundPlaceholder.mat
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Materials\\matchOverBackgroundPlaceholder.mat.meta
+p1:-1 0 opened for move/delete - not changed
+p1:-1 0 opened for move/delete - not changed
+p1:-1 0 opened and not being changed
+p1:-1 0 opened and not being changed
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+p1:-1 0 opened and not being changed
+p1:-1 0 opened and not being changed
+p1:-1 0 opened and not being changed
+p1:-1 0 opened and not being changed
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Textures\\matchOverBackgroundPlaceholder.jpg
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Textures\\matchOverBackgroundPlaceholder.jpg.meta
+p1:-1 0 Change 36529 created with 2 open file(s).
+p1:-1 0 Submitting change 36529.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity.meta#2
+p1:-1 0 Change 36529 submitted.
+p1:-1 0 Change 36534 created with 2 open file(s).
+p1:-1 0 Submitting change 36534.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#2
+p1:-1 0 Change 36534 submitted.
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+p1:-1 0 Change 36593 created with 12 open file(s).
+p1:-1 0 Submitting change 36593.
+p1:-1 0 Locking 12 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/bodySprite.png#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/bodySprite.png.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/headHit.png#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/headHit.png.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/headNeutral.png#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/headNeutral.png.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/mushroomHat.png#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/mushroomHat.png.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/neckSprite.png#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/neckSprite.png.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/pickelhaubeHat.png#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/pickelhaubeHat.png.meta#1
+p1:-1 0 Change 36593 submitted.
+e32:TCP receive failed.\nread: socket: WSAECONNRESET\n
+e32:TCP connect to fiea-art:1666 failed.\nconnect: 10.8.1.104:1666: WSAETIMEDOUT\n
+e32:TCP connect to fiea-art:1666 failed.\nconnect: 10.8.1.104:1666: WSAETIMEDOUT\n
+p1:-1 0 Change 36595 created with 2 open file(s).
+p1:-1 0 Submitting change 36595.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/headNeutral.png#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/headNeutral.png.meta#2
+p1:-1 0 Change 36595 submitted.
+p1:-1 0 Change 36597 created with 2 open file(s).
+p1:-1 0 Submitting change 36597.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/bodySprite.png#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/bodySprite.png.meta#2
+p1:-1 0 Change 36597 submitted.
+p1:-1 0 Change 36604 created with 4 open file(s).
+p1:-1 0 Submitting change 36604.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/headHit.png#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/headHit.png.meta#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/neckSprite.png#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/neckSprite.png.meta#2
+p1:-1 0 Change 36604 submitted.
+p1:-1 0 Change 36605 created with 2 open file(s).
+p1:-1 0 Submitting change 36605.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity.meta#3
+p1:-1 0 Change 36605 submitted.
+p1:-1 0 Change 36612 created with 2 open file(s).
+p1:-1 0 Submitting change 36612.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity#4
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity.meta#4
+p1:-1 0 Change 36612 submitted.
+p1:-1 0 Change 36614 created with 5 open file(s).
+p1:-1 0 Submitting change 36614.
+p1:-1 0 Locking 5 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/headNeutral 1.mat#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/headNeutral 1.mat.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/headNeutral.mat#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/headNeutral.mat.meta#1
+p1:-1 0 Change 36614 submitted.
+p1:-1 0 Change 36615 created with 2 open file(s).
+p1:-1 0 Submitting change 36615.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/headNeutralFull.mat#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/headNeutralFull.mat.meta#1
+p1:-1 0 Change 36615 submitted.
+p1:-1 0 Change 36616 created with 2 open file(s).
+p1:-1 0 Submitting change 36616.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#3
+p1:-1 0 Change 36616 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\PlayerControl.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\PlayerControl.cs.meta
+p1:-1 0 Change 36629 created with 2 open file(s).
+p1:-1 0 Submitting change 36629.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/HeadScaling.cs#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/HeadScaling.cs.meta#1
+p1:-1 0 Change 36629 submitted.
+p1:-1 0 Change 36630 created with 2 open file(s).
+p1:-1 0 Submitting change 36630.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity#5
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity.meta#5
+p1:-1 0 Change 36630 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CameraTest.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CameraTest.unity.meta
+p1:-1 0 opened and not being changed
+p1:-1 0 opened and not being changed
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManager.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManager.cs.meta
+p1:-1 0 opened and not being changed
+p1:-1 0 opened and not being changed
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GameManager.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GameManager.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\HeadScript.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\HeadScript.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerContainerOne.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerContainerOne.prefab.meta
+p1:-1 0 Change 36636 created with 2 open file(s).
+p1:-1 0 Submitting change 36636.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/Billboard.cs#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/Billboard.cs.meta#1
+p1:-1 0 Change 36636 submitted.
+p1:-1 0 Change 36641 created with 4 open file(s).
+p1:-1 0 Submitting change 36641.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/mushroomHat.png#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/mushroomHat.png.meta#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/pickelhaubeHat.png#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/pickelhaubeHat.png.meta#2
+p1:-1 0 Change 36641 submitted.
+p1:-1 0 Change 36643 created with 2 open file(s).
+p1:-1 0 Submitting change 36643.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/mushroomHat.png#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/mushroomHat.png.meta#3
+p1:-1 0 Change 36643 submitted.
+p1:-1 0 Change 36644 created with 2 open file(s).
+p1:-1 0 Submitting change 36644.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/pickelhaubeHat.png#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/pickelhaubeHat.png.meta#3
+p1:-1 0 Change 36644 submitted.
+p1:-1 0 Change 36645 created with 2 open file(s).
+p1:-1 0 Submitting change 36645.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity#6
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity.meta#6
+p1:-1 0 Change 36645 submitted.
+p1:-1 0 Change 36646 created with 2 open file(s).
+p1:-1 0 Submitting change 36646.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity#7
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity.meta#7
+p1:-1 0 Change 36646 submitted.
+p1:-1 0 Change 36651 created with 2 open file(s).
+p1:-1 0 Submitting change 36651.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity#8
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity.meta#8
+p1:-1 0 Change 36651 submitted.
+p1:-1 0 Change 36676 created with 2 open file(s).
+p1:-1 0 Submitting change 36676.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/neckTexture.png#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/neckTexture.png.meta#1
+p1:-1 0 Change 36676 submitted.
+p1:-1 0 Change 36677 created with 2 open file(s).
+p1:-1 0 Submitting change 36677.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity#9
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity.meta#9
+p1:-1 0 Change 36677 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\HeadScript.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\HeadScript.cs.meta
+p1:-1 0 Change 36687 created with 2 open file(s).
+p1:-1 0 Submitting change 36687.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/headNeutralFull.mat#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/headNeutralFull.mat.meta#2
+p1:-1 0 Change 36687 submitted.
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+p1:-1 0 Change 36858 created with 2 open file(s).
+p1:-1 0 Submitting change 36858.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity#10
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity.meta#10
+p1:-1 0 Change 36858 submitted.
+Can't clobber writable file C:\dev\Cohort15-Public\Classes\RPP\assignments\Round 1\Team 10\Giraffe Battle\Assets\Textures\Fight Stage.PNG
+
+Can't clobber writable file C:\dev\Cohort15-Public\Classes\RPP\assignments\Round 1\Team 10\Giraffe Battle\Assets\Textures\Fight Stage.PNG.meta
+
+e1:Can't clobber writable file C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Textures\\Fight Stage.PNG\n
+e1:Can't clobber writable file C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Textures\\Fight Stage.PNG.meta\n
+p1:-1 0 Change 36861 created with 2 open file(s).
+p1:-1 0 Submitting change 36861.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Textures/Fight Stage.PNG#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Textures/Fight Stage.PNG.meta#2
+p1:-1 0 Change 36861 submitted.
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Textures/Fight Stage_Outdated.PNG - file(s) not on client.
+
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Textures/Fight Stage_Outdated.PNG.meta - file(s) not on client.
+
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Textures/Fight Stage_Outdated.PNG - file(s) not on client.\n
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Textures/Fight Stage_Outdated.PNG.meta - file(s) not on client.\n
+p1:-1 0 Change 36865 created with 2 open file(s).
+p1:-1 0 Submitting change 36865.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/HeadScaling.cs#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/HeadScaling.cs.meta#2
+p1:-1 0 Change 36865 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GiraffeHealth.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GiraffeHealth.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManager.cs
+p1:-1 0 opened and not being changed
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Sprites\\Fight Stage.PNG
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Sprites\\Fight Stage.PNG.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Sprites\\Materials\\Fight Stage.mat
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Sprites\\Materials\\Fight Stage.mat.meta
+p1:-1 0 Change 36872 created with 2 open file(s).
+p1:-1 0 Submitting change 36872.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#5
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#5
+p1:-1 0 Change 36872 submitted.
+p1:-1 0 Change 36873 created with 2 open file(s).
+p1:-1 0 Submitting change 36873.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#6
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#6
+p1:-1 0 Change 36873 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GiraffeHealth.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GiraffeHealth.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerContainerOne.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerContainerOne.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerContainerTwo.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerContainerTwo.prefab.meta
+p1:-1 0 Change 36930 created with 4 open file(s).
+p1:-1 0 Submitting change 36930.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Hats/mushroomHat_0.prefab#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Hats/mushroomHat_0.prefab.meta#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Hats/pickelhaubeHat_0.prefab#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Hats/pickelhaubeHat_0.prefab.meta#2
+p1:-1 0 Change 36930 submitted.
+p1:-1 0 Change 36931 created with 2 open file(s).
+p1:-1 0 Submitting change 36931.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity#10
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity.meta#10
+p1:-1 0 Change 36931 submitted.
+p1:-1 0 Change 36932 created with 2 open file(s).
+p1:-1 0 Submitting change 36932.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/HeadScript.cs#5
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/HeadScript.cs.meta#5
+p1:-1 0 Change 36932 submitted.
+p1:-1 0 Change 36947 created with 2 open file(s).
+p1:-1 0 Submitting change 36947.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#7
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#7
+p1:-1 0 Change 36947 submitted.
+p1:-1 0 Change 37011 created with 2 open file(s).
+p1:-1 0 Submitting change 37011.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity#11
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity.meta#11
+p1:-1 0 Change 37011 submitted.
+p1:-1 0 Change 37012 created with 2 open file(s).
+p1:-1 0 Submitting change 37012.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/Tongue.cs#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/Tongue.cs.meta#1
+p1:-1 0 Change 37012 submitted.
+p1:-1 0 Change 37013 created with 4 open file(s).
+p1:-1 0 Submitting change 37013.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerOne.prefab#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerOne.prefab.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerTwo.prefab#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerTwo.prefab.meta#1
+p1:-1 0 Change 37013 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GiraffeHealth.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GiraffeHealth.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerIntro.cs - file(s) not on client.
+
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerIntro.cs.meta - file(s) not on client.
+
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerIntro.cs - file(s) not on client.\n
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerIntro.cs.meta - file(s) not on client.\n
+p1:-1 0 Change 37122 created with 2 open file(s).
+p1:-1 0 Submitting change 37122.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#8
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#8
+p1:-1 0 Change 37122 submitted.
+p1:-1 0 Change 37123 created with 2 open file(s).
+p1:-1 0 Submitting change 37123.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#9
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#9
+p1:-1 0 Change 37123 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManager.cs
+p1:-1 0 opened and not being changed
+p1:-1 0 Change 37124 created with 2 open file(s).
+p1:-1 0 Submitting change 37124.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/Tongue.cs#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/Tongue.cs.meta#2
+p1:-1 0 Change 37124 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity.meta
+p1:-1 0 Change 37133 created with 2 open file(s).
+p1:-1 0 Submitting change 37133.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/NeckBehavior.cs#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/NeckBehavior.cs.meta#1
+p1:-1 0 Change 37133 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerTwo.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerTwo.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerOne.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerOne.prefab.meta
+p1:-1 0 Change 37135 created with 4 open file(s).
+p1:-1 0 Submitting change 37135.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerOne.prefab#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerOne.prefab.meta#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerTwo.prefab#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerTwo.prefab.meta#3
+p1:-1 0 Change 37135 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\giraffeHurt01.ogg
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\giraffeHurt01.ogg.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\giraffeHurt02.ogg
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\giraffeHurt02.ogg.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GiraffeHealth.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GiraffeHealth.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\HeadScript.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\HeadScript.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Victory.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Victory.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManager.cs
+p1:-1 0 opened and not being changed
+p1:-1 0 Change 37136 created with 4 open file(s).
+p1:-1 0 Submitting change 37136.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerOne.prefab#4
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerOne.prefab.meta#4
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerTwo.prefab#4
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerTwo.prefab.meta#4
+p1:-1 0 Change 37136 submitted.
+p1:-1 0 Change 37137 created with 4 open file(s).
+p1:-1 0 Submitting change 37137.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity#14
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity.meta#14
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity#11
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/NeckTest.unity.meta#11
+p1:-1 0 Change 37137 submitted.
+p1:-1 0 Change 37142 created with 2 open file(s).
+p1:-1 0 Submitting change 37142.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity#15
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity.meta#15
+p1:-1 0 Change 37142 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\CameraController.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\CameraController.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GiraffeHealth.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\GiraffeHealth.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\HeadScript.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\HeadScript.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\MusicController.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\MusicController.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Performance.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Performance.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CameraController.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CameraController.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GiraffeHealth.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GiraffeHealth.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\HeadScript.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\HeadScript.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\MusicController.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\MusicController.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\Performance.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\Performance.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Sprites\\roundTokenSpritesheet.png
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Sprites\\roundTokenSpritesheet.png.meta
+p1:-1 0 Change 37161 created with 2 open file(s).
+p1:-1 0 Submitting change 37161.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#10
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#10
+p1:-1 0 Change 37161 submitted.
+p1:-1 0 Change 37162 created with 2 open file(s).
+p1:-1 0 Submitting change 37162.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#11
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#11
+p1:-1 0 Change 37162 submitted.
+p1:-1 0 Change 37171 created with 2 open file(s).
+p1:-1 0 Submitting change 37171.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#12
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#12
+p1:-1 0 Change 37171 submitted.
+p1:-1 0 Change 37176 created with 2 open file(s).
+p1:-1 0 Submitting change 37176.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#13
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#13
+p1:-1 0 Change 37176 submitted.
+p1:-1 0 Change 37182 created with 2 open file(s).
+p1:-1 0 Submitting change 37182.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity#16
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity.meta#16
+p1:-1 1 Change 37182 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManager.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManager.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 1 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManagerCreator.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManagerCreator.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\giraffeHurt01.ogg
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\giraffeHurt01.ogg.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\GameManager.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\GameManager.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\MusicController.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\MusicController.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManagerCreator.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManagerCreator.cs.meta
+p1:-1 0 Change 37199 created with 4 open file(s).
+p1:-1 0 Submitting change 37199.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerOne.prefab#5
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerOne.prefab.meta#5
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerTwo.prefab#5
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerTwo.prefab.meta#5
+p1:-1 0 Change 37199 submitted.
+p1:-1 0 Change 37200 created with 2 open file(s).
+p1:-1 0 Submitting change 37200.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity#18
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity.meta#18
+p1:-1 0 Change 37200 submitted.
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/Square.png - file(s) not on client.
+
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/Square.png.meta - file(s) not on client.
+
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/Square.png - file(s) not on client.\n
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/Square.png.meta - file(s) not on client.\n
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/TSF/Materials.meta - file(s) not on client.
+
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/TSF/Materials.meta - file(s) not on client.\n
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/TSF/Textures.meta - file(s) not on client.
+
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/TSF/Textures.meta - file(s) not on client.\n
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity.meta
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/Circle.png - file(s) not on client.
+
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/Circle.png.meta - file(s) not on client.
+
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/Circle.png - file(s) not on client.\n
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/Circle.png.meta - file(s) not on client.\n
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/New Material.mat - file(s) not on client.
+
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/New Material.mat.meta - file(s) not on client.
+
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/New Material.mat - file(s) not on client.\n
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/New Material.mat.meta - file(s) not on client.\n
+p1:-1 0 Change 37220 created with 2 open file(s).
+p1:-1 0 Submitting change 37220.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GiraffeHealth.cs#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GiraffeHealth.cs.meta#2
+p1:-1 0 Change 37220 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerTwo.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerTwo.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerOne.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\PlayerOne.prefab.meta
+p1:-1 0 Change 37230 created with 6 open file(s).
+p1:-1 0 Submitting change 37230.
+p1:-1 0 Locking 6 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/TSF.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/TSF/Shaders.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/TSF/Shaders/TSF.shader#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/TSF/Shaders/TSF.shader.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/TSF/Shaders/TSFOutline.shader#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/TSF/Shaders/TSFOutline.shader.meta#1
+p1:-1 0 Change 37230 submitted.
+p1:-1 0 Change 37231 created with 4 open file(s).
+p1:-1 0 Submitting change 37231.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/headNeutral.mat#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/headNeutral.mat.meta#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/headNeutralFull.mat#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/headNeutralFull.mat.meta#3
+p1:-1 0 Change 37231 submitted.
+p1:-1 0 Change 37233 created with 2 open file(s).
+p1:-1 0 Submitting change 37233.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity#21
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity.meta#21
+p1:-1 0 Change 37233 submitted.
+p1:-1 0 Change 37275 created with 4 open file(s).
+p1:-1 0 Submitting change 37275.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerOne.prefab#8
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerOne.prefab.meta#8
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerTwo.prefab#8
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/PlayerTwo.prefab.meta#8
+p1:-1 0 Change 37275 submitted.
+p1:-1 0 Change 37276 created with 2 open file(s).
+p1:-1 0 Submitting change 37276.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity#23
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity.meta#23
+p1:-1 0 Change 37276 submitted.
+p1:-1 0 Change 37278 created with 2 open file(s).
+p1:-1 0 Submitting change 37278.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GiraffeHealth.cs#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GiraffeHealth.cs.meta#3
+p1:-1 0 Change 37278 submitted.
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CharacterSelect.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CharacterSelect.cs.meta
+p1:-1 0 Change 38256 created with 2 open file(s).
+p1:-1 0 Submitting change 38256.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GiraffeHealth.cs#4
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GiraffeHealth.cs.meta#4
+p1:-1 0 Change 38256 submitted.
+p1:-1 0 Change 38339 created with 2 open file(s).
+p1:-1 0 Submitting change 38339.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Hats/kermitHat_0.prefab#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Hats/kermitHat_0.prefab.meta#2
+p1:-1 0 Change 38339 submitted.
+p1:-1 0 Change 38340 created with 2 open file(s).
+p1:-1 0 Submitting change 38340.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#16
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#16
+p1:-1 0 Change 38340 submitted.
+p1:-1 0 Change 38341 created with 2 open file(s).
+p1:-1 0 Submitting change 38341.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_acacia.prefab#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_acacia.prefab.meta#2
+p1:-1 0 Change 38341 submitted.
+p1:-1 0 Change 38343 created with 2 open file(s).
+p1:-1 0 Submitting change 38343.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_funGuyRaph.prefab#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_funGuyRaph.prefab.meta#2
+p1:-1 0 Change 38343 submitted.
+p1:-1 0 Change 38346 created with 2 open file(s).
+p1:-1 0 Submitting change 38346.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_Girmit.prefab#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_Girmit.prefab.meta#2
+p1:-1 0 Change 38346 submitted.
+p1:-1 0 Change 38347 created with 2 open file(s).
+p1:-1 0 Submitting change 38347.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_kaiserLongenecker.prefab#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_kaiserLongenecker.prefab.meta#2
+p1:-1 0 Change 38347 submitted.
+p1:-1 0 Change 38348 created with 2 open file(s).
+p1:-1 0 Submitting change 38348.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_wizKid.prefab#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_wizKid.prefab.meta#2
+p1:-1 0 Change 38348 submitted.
+p1:-1 0 Change 38349 created with 2 open file(s).
+p1:-1 0 Submitting change 38349.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_funGuyRaph.prefab#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_funGuyRaph.prefab.meta#2
+p1:-1 0 Change 38349 submitted.
+p1:-1 0 Change 38350 created with 2 open file(s).
+p1:-1 0 Submitting change 38350.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_girmit.prefab#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_girmit.prefab.meta#2
+p1:-1 0 Change 38350 submitted.
+p1:-1 0 Change 38351 created with 2 open file(s).
+p1:-1 0 Submitting change 38351.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_kaiserLongenecker.prefab#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_kaiserLongenecker.prefab.meta#2
+p1:-1 0 Change 38351 submitted.
+p1:-1 0 Change 38352 created with 2 open file(s).
+p1:-1 0 Submitting change 38352.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_wizKid.prefab#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_wizKid.prefab.meta#2
+p1:-1 0 Change 38352 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_acacia.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_acacia.prefab.meta
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Textures/Splashscreen (1).jpg - file(s) not on client.
+
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Textures/Splashscreen (1).jpg.meta - file(s) not on client.
+
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Textures/Splashscreen (1).jpg - file(s) not on client.\n
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Textures/Splashscreen (1).jpg.meta - file(s) not on client.\n
+p1:-1 0 Change 38358 created with 2 open file(s).
+p1:-1 0 Submitting change 38358.
+p1:-1 0 //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_acacia.prefab - must resolve before submitting
+p1:-1 0 //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_acacia.prefab - must resolve #2,#3
+p1:-1 0 //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_acacia.prefab.meta - already locked by Jaime.Tous@jaime.tous
+p1:-1 0 //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_acacia.prefab.meta - edit of deleted file; must sync & add -d or revert
+Out of date files must be resolved or reverted.
+File(s) couldn't be locked.
+Submit failed -- fix problems above then use 'p4 submit -c 38358'.
+
+e1:Out of date files must be resolved or reverted.\nFile(s) couldn't be locked.\nSubmit failed -- fix problems above then use 'p4 submit -c 38358'.\n
+p1:-1 0 Change 38359 created with 2 open file(s).
+p1:-1 0 Submitting change 38359.
+p1:-1 0 //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_acacia.prefab.meta - edit of deleted file; must sync & add -d or revert
+Out of date files must be resolved or reverted.
+Submit failed -- fix problems above then use 'p4 submit -c 38359'.
+
+e1:Out of date files must be resolved or reverted.\nSubmit failed -- fix problems above then use 'p4 submit -c 38359'.\n
+C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_acacia.prefab.meta - file(s) not on client.
+
+w1:C:/dev/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_acacia.prefab.meta - file(s) not on client.\n
+p1:-1 0 Change 38361 created with 2 open file(s).
+p1:-1 0 Submitting change 38361.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_acacia.prefab#4
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_acacia.prefab.meta#3
+p1:-1 0 Change 38361 submitted.
+p1:-1 0 Change 38362 created with 2 open file(s).
+p1:-1 0 Submitting change 38362.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/HeadScript.cs#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/HeadScript.cs.meta#2
+p1:-1 0 Change 38362 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CharacterSelect.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CharacterSelect.cs.meta
+p1:-1 0 Change 38373 created with 4 open file(s).
+p1:-1 0 Submitting change 38373.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CameraShake.cs#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CameraShake.cs.meta#1
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GiraffeHealth.cs#5
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GiraffeHealth.cs.meta#5
+p1:-1 0 Change 38373 submitted.
+p1:-1 0 Change 38374 created with 2 open file(s).
+p1:-1 0 Submitting change 38374.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/HeadScript.cs#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/HeadScript.cs.meta#3
+p1:-1 0 Change 38374 submitted.
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\GameManager.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\GameManager.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\CurrentStatus.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CharacterSelect.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CharacterSelect.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManager.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManager.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\PlayerControl.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\PlayerControl.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\PlayerSpawner.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\PlayerSpawner.cs.meta
+p1:-1 0 Change 38407 created with 2 open file(s).
+p1:-1 0 Submitting change 38407.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs#11
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs.meta#11
+p1:-1 0 Change 38407 submitted.
+p1:-1 0 Change 38409 created with 2 open file(s).
+p1:-1 0 Submitting change 38409.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_funGuyRaph.prefab#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_funGuyRaph.prefab.meta#3
+p1:-1 0 Change 38409 submitted.
+p1:-1 0 Change 38411 created with 2 open file(s).
+p1:-1 0 Submitting change 38411.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_funGuyRaph.prefab#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_funGuyRaph.prefab.meta#3
+p1:-1 0 Change 38411 submitted.
+p1:-1 0 Change 38422 created with 2 open file(s).
+p1:-1 0 Submitting change 38422.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs#12
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs.meta#12
+p1:-1 0 Change 38422 submitted.
+p1:-1 0 Change 38423 created with 8 open file(s).
+p1:-1 0 Submitting change 38423.
+p1:-1 0 Locking 8 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_acacia.prefab#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_acacia.prefab.meta#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_Girmit.prefab#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p1_Girmit.prefab.meta#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_acacia.prefab#5
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_acacia.prefab.meta#4
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_girmit.prefab#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/Giraffes/p2_girmit.prefab.meta#3
+p1:-1 0 Change 38423 submitted.
+p1:-1 0 Change 38425 created with 4 open file(s).
+p1:-1 0 Submitting change 38425.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs#13
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs.meta#13
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#18
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#18
+p1:-1 0 Change 38425 submitted.
+p1:-1 0 Change 38587 created with 2 open file(s).
+p1:-1 0 Submitting change 38587.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#19
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#19
+p1:-1 0 Change 38587 submitted.
+p1:-1 0 Change 38588 created with 2 open file(s).
+p1:-1 0 Submitting change 38588.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#20
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#20
+p1:-1 0 Change 38588 submitted.
+p1:-1 0 Change 38594 created with 2 open file(s).
+p1:-1 0 Submitting change 38594.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs#15
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs.meta#15
+p1:-1 0 Change 38594 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+p1:-1 0 Change 38598 created with 4 open file(s).
+p1:-1 0 Submitting change 38598.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/Fighters.mat#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/Fighters.mat.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/Fighters.renderTexture#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Sprites/Materials/Fighters.renderTexture.meta#1
+p1:-1 0 Change 38598 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CharacterSelect.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CharacterSelect.cs.meta
+p1:-1 0 Change 38600 created with 2 open file(s).
+p1:-1 0 Submitting change 38600.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/Menu.unity#36
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/Menu.unity.meta#36
+p1:-1 0 Change 38600 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\GameManager.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\GameManager.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+p1:-1 0 Change 38607 created with 2 open file(s).
+p1:-1 0 Submitting change 38607.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/Menu.unity#38
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/Menu.unity.meta#38
+p1:-1 0 Change 38607 submitted.
+p1:-1 0 Change 38608 created with 2 open file(s).
+p1:-1 0 Submitting change 38608.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/Menu.unity#39
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/Menu.unity.meta#39
+p1:-1 0 Change 38608 submitted.
+p1:-1 0 Change 38609 created with 2 open file(s).
+p1:-1 0 Submitting change 38609.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab#11
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab.meta#11
+p1:-1 0 Change 38609 submitted.
+p1:-1 0 Change 38612 created with 2 open file(s).
+p1:-1 0 Submitting change 38612.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs#17
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs.meta#17
+p1:-1 0 Change 38612 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_girmit.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_girmit.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_kaiserLongenecker.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_kaiserLongenecker.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CharacterSelect.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CharacterSelect.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManager.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\GameManager.cs.meta
+p1:-1 0 Change 38617 created with 2 open file(s).
+p1:-1 0 Submitting change 38617.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab#12
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab.meta#12
+p1:-1 0 Change 38617 submitted.
+p1:-1 0 Change 38625 created with 2 open file(s).
+p1:-1 0 Submitting change 38625.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab#13
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab.meta#13
+p1:-1 0 Change 38625 submitted.
+p1:-1 0 Change 38629 created with 2 open file(s).
+p1:-1 0 Submitting change 38629.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GameManager.cs#14
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GameManager.cs.meta#14
+p1:-1 0 Change 38629 submitted.
+p1:-1 0 Change 38638 created with 2 open file(s).
+p1:-1 0 Submitting change 38638.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/Billboard.cs#2
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/Billboard.cs.meta#2
+p1:-1 0 Change 38638 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\GameManager.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\GameManager.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CharacterSelect.cs
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scripts\\CharacterSelect.cs.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\playerHighlightSound.mp3
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\playerHighlightSound.mp3.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\playerSelectSound.wav
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Audio\\playerSelectSound.wav.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Sprites\\random.png
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Sprites\\random.png.meta
+p1:-1 0 Change 38663 created with 2 open file(s).
+p1:-1 0 Submitting change 38663.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab#16
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab.meta#16
+p1:-1 0 Change 38663 submitted.
+p1:-1 0 Change 38665 created with 2 open file(s).
+p1:-1 0 Submitting change 38665.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GameManager.cs#15
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GameManager.cs.meta#15
+p1:-1 0 Change 38665 submitted.
+p1:-1 0 Change 38666 created with 2 open file(s).
+p1:-1 0 Submitting change 38666.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/Billboard.cs#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/Billboard.cs.meta#3
+p1:-1 0 Change 38666 submitted.
+p1:-1 0 Change 38669 created with 2 open file(s).
+p1:-1 0 Submitting change 38669.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab#17
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab.meta#17
+p1:-1 0 Change 38669 submitted.
+p1:-1 0 Change 38670 created with 4 open file(s).
+p1:-1 0 Submitting change 38670.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs#20
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs.meta#20
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GameManager.cs#16
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GameManager.cs.meta#16
+p1:-1 0 Change 38670 submitted.
+p1:-1 0 Change 38671 created with 2 open file(s).
+p1:-1 0 Submitting change 38671.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GameManager.cs#17
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/GameManager.cs.meta#17
+p1:-1 0 Change 38671 submitted.
+p1:-1 0 Change 38672 created with 2 open file(s).
+p1:-1 0 Submitting change 38672.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab#18
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab.meta#18
+p1:-1 0 Change 38672 submitted.
+p1:-1 0 Change 38673 created with 2 open file(s).
+p1:-1 0 Submitting change 38673.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/Menu.unity#42
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/Menu.unity.meta#42
+p1:-1 0 Change 38673 submitted.
+p1:-1 0 Change 38674 created with 2 open file(s).
+p1:-1 0 Submitting change 38674.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs#21
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs.meta#21
+p1:-1 0 Change 38674 submitted.
+p1:-1 0 Change 38677 created with 2 open file(s).
+p1:-1 0 Submitting change 38677.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs#22
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs.meta#22
+p1:-1 0 Change 38677 submitted.
+p1:-1 0 Change 38678 created with 2 open file(s).
+p1:-1 0 Submitting change 38678.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab#19
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab.meta#19
+p1:-1 0 Change 38678 submitted.
+p1:-1 0 Change 38679 created with 2 open file(s).
+p1:-1 0 Submitting change 38679.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/Menu.unity#43
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/Menu.unity.meta#43
+p1:-1 0 Change 38679 submitted.
+p1:-1 0 Change 38683 created with 2 open file(s).
+p1:-1 0 Submitting change 38683.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab#20
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab.meta#20
+p1:-1 0 Change 38683 submitted.
+p1:-1 0 Change 38684 created with 2 open file(s).
+p1:-1 0 Submitting change 38684.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/Menu.unity#44
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/Menu.unity.meta#44
+p1:-1 0 Change 38684 submitted.
+p1:-1 0 Change 38697 created with 2 open file(s).
+p1:-1 0 Submitting change 38697.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs#21
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/PlayerControl.cs.meta#21
+p1:-1 0 Change 38697 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\GameManager.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\GameManager.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+p1:-1 0 Change 38739 created with 2 open file(s).
+p1:-1 0 Submitting change 38739.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs#23
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/CharacterSelect.cs.meta#23
+p1:-1 0 Change 38739 submitted.
+p1:-1 0 Change 38741 created with 2 open file(s).
+p1:-1 0 Submitting change 38741.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab#22
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/GameManager.prefab.meta#22
+p1:-1 0 Change 38741 submitted.
+p1:-1 0 Change 38757 created with 2 open file(s).
+p1:-1 0 Submitting change 38757.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/Tongue.cs#3
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scripts/Tongue.cs.meta#3
+p1:-1 0 Change 38757 submitted.
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\GameManager.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\GameManager.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p1_acacia.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p1_acacia.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p1_funGuyRaph.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p1_funGuyRaph.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p1_Girmit.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p1_Girmit.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p1_kaiserLongenecker.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p1_kaiserLongenecker.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p1_wizKid.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p1_wizKid.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_acacia.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_acacia.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_funGuyRaph.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_funGuyRaph.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_girmit.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_girmit.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_kaiserLongenecker.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_kaiserLongenecker.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_wizKid.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\p2_wizKid.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\PlayerOneBase.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\PlayerOneBase.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\PlayerTwoBase.prefab
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Prefabs\\Giraffes\\PlayerTwoBase.prefab.meta
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity
+p1:-1 0 C:\\dev\\Cohort15-Public\\Classes\\RPP\\assignments\\Round 1\\Team 10\\Giraffe Battle\\Assets\\Scenes\\Menu.unity.meta
+p1:-1 0 Change 38758 created with 4 open file(s).
+p1:-1 0 Submitting change 38758.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/TongueOne.prefab#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/TongueOne.prefab.meta#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/TongueTwo.prefab#1
+p1:-1 0 add //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Prefabs/TongueTwo.prefab.meta#1
+p1:-1 0 Change 38758 submitted.
+p1:-1 0 Change 38759 created with 2 open file(s).
+p1:-1 0 Submitting change 38759.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity#26
+p1:-1 0 edit //depot/Cohort15-Public/Classes/RPP/assignments/Round 1/Team 10/Giraffe Battle/Assets/Scenes/CurrentStatus.unity.meta#25
+p1:-1 1 Change 38759 submitted.
+e32:TCP connect to fiea-art:1666 failed.\nNo such host is known. \n
